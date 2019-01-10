@@ -92,6 +92,18 @@ footer{
     clear: both;
 }
 
+.container-2{
+    width: 600px;
+    margin-top: 80px;
+    padding: 20px;
+    background-color: lightgrey;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid;
+    margin-bottom: 40px;
+    text-align: center;
+
+}
 .column {
     float: left;
     width: 33.33%;
@@ -105,3 +117,13 @@ footer{
     display: table;
       
   }
+
+  .project1{
+      color: black;
+
+  }
+
+  h2 {
+      border-bottom: solid black;
+  }
+ 
