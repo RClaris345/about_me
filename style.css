@@ -10,7 +10,7 @@ nav {
 }
 .name {
     font-size: 30px;
-    padding: 20px;
+    padding: 31px;
     float: left;
     background-color: white;
 }
@@ -101,8 +101,6 @@ footer{
     margin-right: auto;
     border: solid;
     margin-bottom: 40px;
-    text-align: center;
-
 }
 .column {
     float: left;
@@ -127,3 +125,10 @@ footer{
       border-bottom: solid black;
   }
  
+  .row1 {
+      text-align: center;
+  }
+
+  .row2{
+      text-align: center
+  }
